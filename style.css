@@ -4,3 +4,7 @@
   background-size: cover;
   background-repeat: no-repeat;
 }
+
+.hero-side{
+  height: 100vh;
+}
